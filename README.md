@@ -43,7 +43,7 @@ Todo
 
 ## Run App
     
-    git clone https://github.com/gustaYo/vue-chess.git
+    git clone https://github.com/Matthew3391/vue-chess.git
 
     cd vue-chess/server
     yarn install
@@ -51,17 +51,6 @@ Todo
 		// Get the address shown on console
 
     // user test admin password yoyo
-
-## Build setup for developers
-
-``` bash
-# install dependencies
-
-# use these node_modules that I share to you to work correctly https://vue-chess-dependencies-enczdtjzdy.now.sh/
-
-wget https://vue-chess-dependencies-enczdtjzdy.now.sh/
-7z x node_modules.7z
-
 
 # serve with hot reload at localhost:8080
 yarn dev
